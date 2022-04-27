@@ -1,0 +1,13 @@
+C:\Users\Radisa\Desktop\MyCSharp\Day2\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.exe
+C:\Users\Radisa\Desktop\MyCSharp\Day2\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.deps.json
+C:\Users\Radisa\Desktop\MyCSharp\Day2\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.runtimeconfig.json
+C:\Users\Radisa\Desktop\MyCSharp\Day2\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.runtimeconfig.dev.json
+C:\Users\Radisa\Desktop\MyCSharp\Day2\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.dll
+C:\Users\Radisa\Desktop\MyCSharp\Day2\classesDemo\bin\Debug\netcoreapp3.1\classesDemo.pdb
+C:\Users\Radisa\Desktop\MyCSharp\Day2\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.csprojAssemblyReference.cache
+C:\Users\Radisa\Desktop\MyCSharp\Day2\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.AssemblyInfoInputs.cache
+C:\Users\Radisa\Desktop\MyCSharp\Day2\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.AssemblyInfo.cs
+C:\Users\Radisa\Desktop\MyCSharp\Day2\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Radisa\Desktop\MyCSharp\Day2\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.dll
+C:\Users\Radisa\Desktop\MyCSharp\Day2\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.pdb
+C:\Users\Radisa\Desktop\MyCSharp\Day2\classesDemo\obj\Debug\netcoreapp3.1\classesDemo.genruntimeconfig.cache
