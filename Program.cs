@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace classesDemo
 {
@@ -14,7 +15,20 @@ namespace classesDemo
             Console.WriteLine(b.Weight);
             b.feed();
             Console.WriteLine(b.Weight);
-            
+            Reptile Picolo = new Reptile("Namekian",2,185,"green","smooth",true);
+            Picolo.feed();
+            Picolo.ShowStats();
+
+            Bird Kiwi = new Bird("Parrot",2,2.5,"green",true);
+
+            List<Animal> allAnimals = new List<Animal>();
+            allAnimals.Add(a);
+            allAnimals.Add(b);
+            allAnimals.Add(Picolo);
+            allAnimals.Add(Kiwi);
+
+            foreach(Animal anim in allAnimals)
+            Console.WriteLine(anim.species);
         }
     }
 }
